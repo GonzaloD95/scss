@@ -1,0 +1,2 @@
+Agregue Seo con sus <meta> description y keywords
+Use los mixins para simplificar el 2 secciones de la pagina
